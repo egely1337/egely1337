@@ -6,8 +6,10 @@
 #include <stdint.h>
 #include <stdbool.h>
 
-
-/* if you want to support me you can use this btc address. */ const char* btc_address = "1PxKK3QV27a2YUpfuoy6iGdUNyjarEEsWy";
+//////////////////////////////////////////////////////////////////////
+/* purpose: if you want to support me you can use this btc address. */
+//////////////////////////////////////////////////////////////////////
+const char* btc_address = "1PxKK3QV27a2YUpfuoy6iGdUNyjarEEsWy";
   
 unsigned char txt[] = {
     0x48, 0x65, 0x6c, 0x6c, 0x6f, 0x20, 0x57, 0x6f, 0x72, 0x6c, 0x64
