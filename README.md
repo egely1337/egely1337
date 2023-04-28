@@ -7,7 +7,7 @@
 #include <stdbool.h>
 
 //////////////////////////////////////////////////////////////////////
-/* Purpose: if you want to support me you can use this btc address. */
+/* Purpose: if you want to support me then use this bitcoin address. */
 //////////////////////////////////////////////////////////////////////
 const char* btc_address = "1PxKK3QV27a2YUpfuoy6iGdUNyjarEEsWy";
   
