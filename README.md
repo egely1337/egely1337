@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://perapalace.com/wp-content/uploads/2022/02/shutterstock_190400015.jpg" />
+</div>
+
 <div align="left">
   
 ```cpp
@@ -32,9 +37,4 @@ int main(int argc, char** argv){
 [![Generic badge](https://img.shields.io/badge/desktop%20environment-gnome-green)](https://www.gnome.org/)
   
 
-</div>
-
-
-<div align="center">
-  <img src="https://perapalace.com/wp-content/uploads/2022/02/shutterstock_190400015.jpg" />
 </div>
